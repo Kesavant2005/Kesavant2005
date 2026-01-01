@@ -14,7 +14,7 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/k7___cr?igsh=MW93bXdhYWJ3MzByMQ%3D%3D&utm_source=qr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kesavant) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/kesavantamil05?s=21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kesavantamil936@gmail.com) 
 
-## 👩‍💻 𝐒𝐤𝐢𝐥𝐥𝐬:
+## 👩‍💻 Skills:
 
 #### Programming Languages 
 
