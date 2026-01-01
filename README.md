@@ -81,7 +81,7 @@
 | Malaria Cell Detector          | [View](https://github.com/Kesavant2005/Malaria-Cell-Detector)           | `Deep Learning`, `Image Classification`, `Python` |
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kesavant2005&theme=github_dark_dimmed&hide_border=false&include_all_commits=true&count_private=false)<br/>
