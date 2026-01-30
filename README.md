@@ -1,4 +1,5 @@
-<img src="https://komarev.com/ghpvc/?username=Kesavant2005&style=flat&color=orange" height="40"/>    [![GitHub stars](https://img.shields.io/github/stars/Kesavant2005?style=flat&color=DAF7A6&logo=github&logoColor=black)](https://github.com/Kesavant2005?tab=repositories&sort=stargazers)
+![Profile Views](https://komarev.com/ghpvc/?username=Kesavant2005)
+[![GitHub stars](https://img.shields.io/github/stars/Kesavant2005?style=flat&color=DAF7A6&logo=github&logoColor=black)](https://github.com/Kesavant2005?tab=repositories&sort=stargazers)
 <h1 align="center">  Hello,<img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
