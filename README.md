@@ -65,6 +65,7 @@
 | Customer Transaction Prediction| [View](https://github.com/Kesavant2005/Customer-Transaction-Prediction)| `Machine Learning`, `Python`|
 | Heart Disease Prediction       | [View](https://github.com/Kesavant2005/Heart-Disease-Prediction)      | `Machine Learning`, `Python`|
 | Portuguese-Bank-Subscription-Outcome-Prediction| [View](https://github.com/Kesavant2005/Portuguese-Bank-Subscription-Outcome-Prediction) | `Machine Learning`, `Python`|
+|                                                 |                                                                                         |                            |
 
 
 #### Data Analysis Projects:
