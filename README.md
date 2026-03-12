@@ -63,11 +63,11 @@
 #### Machine Learning Projects:
 | **Machine Learning Projects**                   | **Repository**   | **Tech Stack & Tools**   |
 |:-------------------------------|:----------------:|:-----------------------------------------------|
+| Telecom Customer Churn Prediction   |  [View](https://github.com/Kesavant2005/Telecom-customer-churn-prediction) | `Machine Learning`, `Python`|
 | House Price Prediction | [View](https://github.com/Kesavant2005/House-Price-Prediction) | `Machine Learning`, `Python`|
 | Customer Transaction Prediction| [View](https://github.com/Kesavant2005/Customer-Transaction-Prediction)| `Machine Learning`, `Python`|
 | Heart Disease Prediction       | [View](https://github.com/Kesavant2005/Heart-Disease-Prediction)      | `Machine Learning`, `Python`|
 | Portuguese-Bank-Subscription-Outcome-Prediction| [View](https://github.com/Kesavant2005/Portuguese-Bank-Subscription-Outcome-Prediction) | `Machine Learning`, `Python`|
-| Telecom Customer Churn Prediction   |  [View](https://github.com/Kesavant2005/Telecom-customer-churn-prediction) | `Machine Learning`, `Python`|
 | BFSI AI Chatbot (RAG-based)  |  [View](https://github.com/Kesavant2005/BFSI-Chatbot) | `Python`, `NLP`, `RAG`, `LangChain`, `Machine Learning`|
 
 
