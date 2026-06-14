@@ -76,6 +76,8 @@
 | **Data Analysis Projects**                   | **Repository**   | **Tech Stack & Tools**                        |
 |:-------------------------------|:----------------:|:-----------------------------------------------|
 | Meta Ad Performance Analysis   | [View](https://github.com/Kesavant2005/Meta-Ad-Performance-Analysis)           | `Power bi` |
+| Zepto Inventry Analysis   | [View](https://github.com/Kesavant2005/zepto-sql-inventory-analysis)           | `SQL` |
+
 
 
 #### Deep Learning Projects:
